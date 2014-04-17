@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<config>
+	<id>module mall</id>
+	<type>module</type>
+	<category>mall</category>
+	<name>
+		<en>Mall</en>
+		<ko>Mall</ko>
+	</name>
+	<version>0.1</version>
+	<author>JaeHo Song</author>
+	<email>thruthesky@gmail.com</email>
+	<short>
+		<en>This is online shopping mall module</en>
+		<ko>온라인 쇼핑몰 모듈입니다.</ko>
+</config>
