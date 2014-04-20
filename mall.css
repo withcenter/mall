@@ -1,0 +1,13 @@
+.mall-admin-menu {
+	margin: 1em 0;
+}
+
+
+.new-item input[type='text'],
+.new-item textarea
+{
+	width: 100%;
+}
+.new-item textarea {
+	height: 14em;
+}
